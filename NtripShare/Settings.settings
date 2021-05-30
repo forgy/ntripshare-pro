@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NTRIPClient" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PreferredMountPoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="config" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NTRIPPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">b</Value>
+    </Setting>
+    <Setting Name="NTRIPUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">b</Value>
+    </Setting>
+    <Setting Name="NTRIPPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6060</Value>
+    </Setting>
+    <Setting Name="NTRIPCaster" Type="System.String" Scope="User">
+      <Value Profile="(Default)">113.114.205.233</Value>
+    </Setting>
+    <Setting Name="RegisteCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,1 @@
+rnx2rtkp -p 4 -a -o out.pos cors1_20200316.obs cors_20200316.obs cors_20200316.nav
